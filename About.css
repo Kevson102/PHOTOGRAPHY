@@ -1,0 +1,11 @@
+body{
+    background-color: palevioletred;
+}
+h1{
+    text-align: center;
+    border: 10px cyan solid ;
+    padding: 3px;
+}
+a:hover{
+    color: darkblue;
+}
