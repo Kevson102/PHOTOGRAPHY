@@ -8,3 +8,11 @@ h1{
     padding: 4px;
     background-color: burlywood;
 }
+h3{
+    display: inline;
+    border: 0;
+    padding-right: 200px ;
+    text-align: center;
+    align-items: center;
+    font-family: fantasy;
+}
