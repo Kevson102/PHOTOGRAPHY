@@ -35,3 +35,14 @@ h2{
     text-align: center;
     background-color: darkviolet;
 }
+a:hover{
+    color: palegreen;
+}
+div{
+    text-align: right;
+}
+span{
+    border: 3px solid black;
+    padding: 3px;
+    display: flex;
+}
