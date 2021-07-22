@@ -1,0 +1,10 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+    border: 3px solid blueviolet;
+    padding: 4px;
+    background-color: burlywood;
+}
