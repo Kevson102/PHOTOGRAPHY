@@ -30,3 +30,8 @@ h2{
 .second{
     align-items: flex-end;
 }
+.guide{
+    color: rgb(109, 30, 30);
+    text-align: center;
+    background-color: darkviolet;
+}
