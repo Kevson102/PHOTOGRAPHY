@@ -16,3 +16,11 @@ h3{
     align-items: center;
     font-family: fantasy;
 }
+h2{
+    text-align: center;
+    color: khaki;
+    border: 3px solid blueviolet;
+    padding: 0px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
