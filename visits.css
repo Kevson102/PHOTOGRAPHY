@@ -1,0 +1,21 @@
+body{
+    background-color: cornflowerblue;
+
+}
+h1{
+    background-color: rgb(170, 143, 148);
+    text-align: center;
+    font-style: oblique;
+    font-weight: 600;
+}
+ul{
+    text-align: center;
+    color: darkmagenta;
+    font-size: x-large;
+}
+h3{
+    color: brown;
+    background-color: burlywood;
+    border: 3px solid black;
+    text-align: center;
+}
